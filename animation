@@ -1,0 +1,1179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>I was Here</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+  <link rel="manifest" href="./favicon/site.webmanifest" />
+  <!-- BootStrap  -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous" />
+
+  <!-- CSS Stylesheet -->
+  <link href="./css/styles.css" rel="stylesheet" type="text/css" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstàtic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Sacramento&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+  <link href="http://fonts.cdnfonts.com/css/zapfino-extra-lt" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Macondo&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Poppins:wght@300;400;600&display=swap"
+    rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Ubuntu:wght@500&display=swap"
+    rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Ubuntu:wght@500&display=swap"
+    rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Poppins:wght@100&display=swap"
+    rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fasthand&family=Inconsolata:wght@300&family=Poppins:wght@100&display=swap"
+    rel="stylesheet">
+ 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+</head>
+
+<body>
+  <header class="animate__animated animate__fadeInDown">
+    <a href="index.html" class="hero-anchor"><img src="assets/images/logo.png" alt="a circular voilet color logo"
+        class="hero-img"></a>
+    <div>
+      <lcards animate__animated animate__fadeInLeft abel for="searchbox">Search</label>
+        <input type="search" oninput="liveSearch()" id="searchbox">
+    </div>
+  </header id="top">
+  <!-- Example  -->
+  <div class="cards animate__animated animate__fadeInLeft Your-Name">
+    <h1 id="Your-Name">Name was here</h1>
+    <p class="Your-Name-Para">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia odit
+      voluptates veritatis et! Voluptatum reprehenderit illo sit cumque et
+      ipsam laboriosam rem perspiciatis magnam, a, dolores expedita eveniet
+      quos rerum.
+    </p>
+    <a href="http://twitter.com/your-link" target="_blank"><img class="twt"
+        src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+  </div>
+
+  <!-- Vansh-Goel -->
+  <div class="cards animate__animated animate__fadeInRight Vansh-Goel">
+    <h1 id="Vansh-Goel">Vansh was here</h1>
+    <p class="Vansh-Goel-Para">
+      Hello everyone this is Vansh, I am a student who is learning web
+      development these days, I also know a bit about bash script and I love
+      photography, apart from that I like reading and learning new things.
+      Indie Rock is my jam.
+    </p>
+    <a href="http://twitter.com/_VanshGoel_" target="_blank"><img class="twt"
+        src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+  </div>
+
+  <!-cards animate__animated animate__fadeInLeft - Maheen-Shaikh -->
+    <div class="cards animate__animated animate__fadeInLeft Maheen-Shaikh">
+      <h1 id="Maheen-Shaikh">Maheen was here</h1>
+      <p class="Maheen-Shaikh-Para">
+        Hello everyone! this is Maheen, I am an engineering student. I am learning JavaScript, Web Development and Git.
+        I like to learn new things and read books.
+      </p>
+      <a href="https://github.com/MaheenShaikh7" target="_blank"><img class="github"
+          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="github" /></a>
+    </div>
+
+    <!-cards animate__animated animate__fadeInLeft - Harshvardhan-Sharma -->
+      <div class="cards animate__animated animate__fadeInRight Harshvardhan-Sharma">
+        <h1 id="Harshvardhan-Sharma">Harsh was here</h1>
+        <p class="Harshvardhan-Sharma-Para">
+          Hello everyone this is Harsh, I am a 1st yr CSE student who is learning
+          web development and DSA.I love watching anime and reading books.I
+          recently started reading novels too.
+        </p>
+        <div class="socials"> <a href="http://twitter.com/vardhan0604" target="_blank"><img class="twt"
+              src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+          <a href="https://github.com/vardhan0604" target="_blank"><img class="github"
+              src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+        </div>
+      </div>
+
+      <!-cards animate__animated animate__fadeInLeft - Aditi-Bendre -->
+        <div class="cards animate__animated animate__fadeInLeft Aditi-Bendre">
+          <h1 id="Aditi-Bendre">Aditi was here</h1>
+          <p class="Aditi-Bendre-Para">
+            Hi everyone this is Aditi Bendre. I am a 2nd year student of BCA
+            studying in Manipal University. I have a lot of interest in web
+            development. I have some knowledge in HTML, CSS and a little in java.
+          </p>
+          <a href="https://github.com/AditiBendre" target="_blank"><img class="github"
+              src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+        </div>
+
+        <!-cards animate__animated animate__fadeInLeft - Chirag-Khatri -->
+          <div class="cards animate__animated animate__fadeInRight Chirag-Khatri">
+            <h1 id="Chirag-Khatri">Chirag was here</h1>
+            <p class="Chirag-Khatri-Para">
+              Hi everyone this is Chirag Khatri. I am a High School Passout. I have a
+              lot of interest in Frontend development. I have some knowledge in HTML,
+              CSS and a little in java.
+            </p>
+            <a href="https://github.com/chiragkhatri19" target="_blank"><img class="github"
+                src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+          </div>
+
+          <!-cards animate__animated animate__fadeInLeft animate__animated animate__fadeInLeft - Lea-Guedj -->
+            <div class="cards animate__animated animate__fadeInLeft Lea-Guedj">
+              <h1 id="Lea-Guedj">Lea was here</h1>
+              <p class="Lea-Guedj-Para">
+                Hello everyone, this is Lea. I am a journalist learning how to code. I
+                love reading novels and cooking but what I love most is walking near the
+                sea.
+              </p>
+              <a href="https://twitter.com/Ieaguedj" target="_blank"><img class="twt"
+                  src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+              <a href="https://github.com/leaggg" target="_blank"><img class="github"
+                  src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+            </div>
+
+            <!--  Om-Sarraf  -->
+            <div class="cards animate__animated animate__fadeInRight Om-Sarraf">
+              <h1 id="Om-Sarraf">Om was here</h1>
+              <p class="Om-Sarraf-Para">
+                Hi everyone this is Om Sarraf. I am currently in my freshman year
+                pursuing B-Tech CSE. I am learning Frontend development as of now.
+              </p>
+              <div class="socials">
+                <a href="http://twitter.com/itsOmSarraf_" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                <a href="https://github.com/itsOmSarraf" target="_blank"><img class="github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+              </div>
+            </div>
+
+            <!-cards animate__animated animate__fadeInLeft - Ayush Kanduri -->
+              <div class="cards animate__animated animate__fadeInLeft AyushK">
+                <h1 id="AyushK"><span id="AyushK_span">Ayush Kanduri</span> was here 🚀</h1>
+                <p class="AyushK-Para">
+                  Hi 👋 I'm&emsp;<span id="AyushK_span2">Ayush Kanduri</span>&emsp;A Full-Stack (MERN) Web Developer.
+                  I'm a Tech Enthusiast and currently exploring the world of Open Source. I tweet about my Web
+                  Development Journey along with the Open Source Contributions. If you see this, then let's Connect. 🌟
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/Ayush_Codes" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/Ayush-Kanduri" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                  <a href="https://www.linkedin.com/in/ayushkanduri" target="_blank"><img class="linkd"
+                      src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Markus Eicher -->
+              <div class="cards animate__animated animate__fadeInRight Markus-Eicher">
+                <h1 id="Markus-Eicher">Markus was here</h1>
+                <p class="Markus-Eicher-Para">
+                  Hi folks, my name is Markus. I'm currently learning to code and building
+                  projects in public. I like contributing to opensource and I'm a hockey
+                  fan and occasionally oil painter. Have a great time and be well!
+                </p>
+                <a href="https://twitter.com/MarkusEicher70" target="_blank"><img class="twt" id="mke-twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+                    alt="The Twitter logo is a black bird" /></a>
+                <a href="https://github.com/MarkusEicher" target="_blank"><img class="github" id="mke-github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+                    alt="GitHub logo shows a white cat silhouette on black background" /></a>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Jayne Elliott  -->
+              <div class="cards animate__animated animate__fadeInLeft Jayne-Elliott">
+                <h1 id="Jayne-Elliott">Jayne was here</h1>
+                <p class="Jayne-Elliott-Para">
+                  Hi, my name is Jayne and I am just starting out in the world of coding.
+                  I also enjoy Formula One and cats.
+                </p>
+                <a href="https://github.com/JayneElliott404" target="_blank"><img class="github" id="mke-github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+                    alt="GitHub logo shows a white cat silhouette on black background" /></a>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Rachit Ranka  -->
+              <div class="cards animate__animated animate__fadeInRight Rachit">
+                <h1>Rachit was here</h1>
+                <p class="Rachit-Para">
+                  Hey👋, this is Rachit. I am a 1st year engineering student. Currently, I
+                  am learning about Bootstrap. I love to explore new tech.
+                </p>
+                <a href="http://twitter.com/rachit_45" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                <a href="https://github.com/rachit-ranka" target="_blank"><img class="github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Aman Mishra -->
+              <div class="cards animate__animated animate__fadeInLeft Aman">
+                <h1 id="Aman">Aman was here</h1>
+                <p class="Aman-Para">
+                  Hi, I'm Aman Mishra. Currently, I'm learning Web development and I loves
+                  to play to Chess in freetime.
+                </p>
+                <div class="cards animate__animated animate__fadeInLeft socials">
+                  <a href="https://twitter.com/Aman_Mishra_1" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/thisisamanmishra" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Ishika Ishani -->
+              <div class="cards animate__animated animate__fadeInRight Ishika-Ishani">
+                <h1 id="Ishika-Ishani">Ishika was here</h1>
+                <p class="Ishika-Ishani-Para">
+                  Ishika here; I am a student currently learning web programming while
+                  pursuing a Bachelor of Data Science at IIT Madras. Music, poetry,
+                  reading, and travelling are some of my interests. .
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/siya_1255" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/ishani-1255" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Dhruvi Thakkar -->
+              <div class="cards animate__animated animate__fadeInLeft Dhruvi">
+                <h1 id="Dhruvi">Dhruvi was here</h1>
+                <p class="Dhruvi">
+                  Hello everyone, this is Dhruvi. I am currently working on my frontend
+                  skills .
+                </p>
+                <a href="https://twitter.com/dhruvicodes" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                <a href="https://github.com/dhruvi210" target="_blank"><img class="github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Ishika Garg  -->
+              <div class="cards animate__animated animate__fadeInRight Ishika-Garg">
+                <h1 id="Ishika-Garg">Ishika was here</h1>
+                <p class="Ishika-Garg-Para">
+                  Hey there! I am first year college student pursuing engineering.
+                  Currently learning Web Development and Linux. My fav pastimes are
+                  reading and watching sci-fi movies. Big fan of Indie music.
+                </p>
+                <a href="http://twitter.com/ishi_g03" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Angel Bansal  -->
+              <div class="cards animate__animated animate__fadeInLeft Angel-Bansal">
+                <h1 id="Angel-Bansal">Angel was here</h1>
+                <p class="Angel-Bansal-Para">
+                  Hi everyone my name is Angel Bansal. I am a computer science
+                  undergraduate. I am currently learning react and i love to explore new
+                  tech stacks.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/ctrl_zedd" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/abn15" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Divas  -->
+              <div class="cards animate__animated animate__fadeInRight Divas">
+                <h1 id="Divas">Divas was here</h1>
+                <p class="Divas-Para">
+                  Hi, my name is Divas. I am a computer science student. I am a tech
+                  enthusiast and currently learning machine learning.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/divas_v" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/divasgt" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+
+              <div class="cards animate__animated animate__fadeInLeft Jitesh">
+                <h1 id="Jitesh"> <span id="jitesh_span">Jitesh</span> was here</h1>
+                <p class="Jitesh-para">
+                  Hey! I am a third year engineering student. A Fluter enthusiast interested in Frontend Development and
+                  learning
+                  Data Structures and Algorithms. Playing Chess, reading, gaming are some of my favorite things to do.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/Jitesh_117" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/Jitesh117" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Mridul Panda -->
+              <div class="cards animate__animated animate__fadeInRight mridul2820">
+                <h1 id="mridul2820">Mridul was here</h1>
+                <p class="mridul2820-description">
+                  Hi, I'm Mridul Panda. I'm a front-end developer working on React JS,
+                  Next JS and React Native. I love to explore new tech stuffs everyday and
+                  I'm a Cricket fan.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/i_mridul" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/Mridul2820" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Pooja Shinde  -->
+              <div class="cards animate__animated animate__fadeInLeft poojaShinde">
+                <h1 id="poojaShinde">Pooja was here</h1>
+                <p class="poojaShinde-Para">
+                  Hi, my name is Pooja. I am new to open source.
+                  I currently working on my frontend skills.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/poojashindeee" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/PoojaShinde07" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Shivam Pathak -->
+              <div class="cards animate__animated animate__fadeInRight Shivam-Pathak">
+                <h1 id="Shivam-Pathak">Keep Calm</h1>
+                <p class="Shivam-Pathak-Para">Hi, I am starting open-source and feeling very excited to contribute. </p>
+                <a href="https://www.linkedin.com/in/shivampathak-" target="_blank"><img class="linkd"
+                    src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                <a href="https://twitter.com/Shivam11597284" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt=""></a>
+                <a href="https://github.com/ShivamPathak99" target="_blank"><img class="github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Srikar M-->
+              <div class="cards animate__animated animate__fadeInLeft SrikarM">
+                <h1 id="SrikarM">Srikar M</h1>
+                <p class="Srikar">Hey Srikar here, I am an aspiring FullStack developer. I am a writer and love watching
+                  anime. I
+                  look forward to connect with everyone here!</p>
+                <a href="https://twitter.com/Srikarismad" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt=""></a>
+                <a href="https://github.com/Srikarmk" target="_blank"><img class="github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+                <a href="https://www.linkedin.com/in/m-srikar/" target="_blank"><img class="linkedin"
+                    src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+              </div>
+              <!--cards animate__animated animate__fadeInLeft  Tania Banerjee-->
+              <div class="cards animate__animated animate__fadeInRight taniab">
+                <h1 id="taniaban2712">Tania was here</h1>
+                <p class="tania">Hello! I am a freshman majoring at Computer Science Engineering. I'm enthusiastic about
+                  Web development, Web3, music and badminton.</p>
+                <div class="socials">
+                  <a href="https://twitter.com/taniaban2712" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="twitter" />
+                  </a>
+                  <a href="https://github.com/taniaban2712" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="github" />
+                  </a>
+                </div>
+              </div>
+
+              <!-- Ayush Srivastava -->
+              <div class="cards animate__animated animate__fadeInLeft AyushSrivastava">
+                <h1 id="Ayush-Srivastava">Ayush Srivastava was here</h1>
+                <p class="Ayush-paragraph">
+                  Hello everyone , I am Ayush Srivastava 3rd year CSE-AI student who is learning
+                  web development and DSA.I love watching cricket and coding.
+                </p>
+                <div class="socials">
+                  <a href="http://twitter.com/ayush_11122" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="">
+                  </a>
+                  <a href="https://github.com/klaus0512" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="">
+                  </a>
+                  <a href="https://www.linkedin.com/in/ayush-srivastava-198502219" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="">
+                  </a>
+                </div>
+              </div>
+
+
+              <!-- Harsh-Kapoor -->
+              <div class="cards animate__animated animate__fadeInRight Harsh-Kapoor">
+                <h1 id="Harsh-Kapoor"><span id="harsh_span">Harsh Kapoor</span> was here</h1>
+                <p class="Harsh-Kapoor-Para">
+                  Hey everyone this is Harsh Kapoor and I am freshman in Btech CSE, also I am a cybersecurity enthusiast
+                  and want to know more about it.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/Harsh_Kapoor03" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/Harsh-Kapoorr" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!-- hey this is aryan sharma -->
+              <div class="cards animate__animated animate__fadeInRight Aryan-Sharma">
+                <h1 id="Aryan-Sharma"><span id="Aryan-Sharma_span">Aryan Sharma</span> was here</h1>
+                <p class="Aryan-Sharma-Para">
+                  Hey everyone, this is Aryan Sharma and I am currently doing Btech in CSE, also I am a tech enthusiast
+                  and want to explore it.
+                </p>
+
+                <div class="socials">
+                  <a href="https://twitter.com/i_AryanSharma17" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/ARYAN-CODES-STAR" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Shivam Gupta -->
+              <div class="cards animate__animated animate__fadeInLeft rawngex01">
+                <h1 id="rawngex01">Shivam was here</h1>
+                <p class="rawngex01-description">
+                  Hi, I'm Shivam Gutpa. I'm a front-end developer working on React JS. A Computer Science student who is
+                  passionate about Cybersecurity, started with Web Development in this domain.
+                  I am eager to master new skills in Web Development and Cybersecurity.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/rawngex01" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/rawnge" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!-- Agnese -->
+              <div class="cards animate__animated animate__fadeInRight Agnese">
+                <h1 id="Agnese">Agnese was here</h1>
+                <p class="AgneseB2">
+                  Good morning y'all, this is my first year studying Computer Science at Padua University in Italy.
+                  I enjoy learning new things and coming up with ideas everyday.
+                  Best greetings from my cat Mollica and me! (｡^•ㅅ•^｡)
+                </p>
+                <div class="socials">
+                  <a href="https://github.com/AgneseB2/" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!-- Harsh Kukreja -->
+              <div class="cards animate__animated animate__fadeInLeft HarshKukreja">
+                <h1 id="HarshKukreja">Harsh Kukreja was here</h1>
+                <p class="harsh25k">
+                  Hey, I am in third year studying Computer Science at BVCOE, New Delhi, India.
+                  I am learning web development and DSA.
+                </p>
+                <div class="socials">
+                  <a href="https://www.linkedin.com/in/harsh25kukreja/" target="_blank"><img class="linkd"
+                      src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                  <a href="https://github.com/harsh-25k" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Ayush Soni -->
+              <div class="cards animate__animated animate__fadeInRight AyushSoni">
+                <h1 id="Ayush-Soni">Ayush Soni was here</h1>
+                <p>Hey people👋</p>
+                <p class="Ayush-paragraph">
+                  This is Ayush Soni, a junior-year computer science undergraduate and working as a Software Engineer at
+                  Economize. I am a Full Stack Developer, an Microsoft Learn Student Ambassador and a Open Source
+                  Enthusiast.
+                </p>
+                <div class="socials">
+                  <a href="https://www.linkedin.com/in/ayushsoni1010" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="Linkedin">
+                  </a>
+                  <a href="https://github.com/ayushsoni1010" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub">
+                  </a>
+                  <a href="http://twitter.com/ayushsoni1010" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="Twitter">
+                  </a>
+                </div>
+              </div>
+
+              <!-- Yash Raj -->
+              <div class="cards animate__animated animate__fadeInLeft Yashraj">
+                <h1 id="Yash-raj">Yash was here</h1>
+                <p class="Yash-Raj-Para">
+                  Hello everyone 👋, this is Yash Raj. will be in my Freshman year in couple of weeks! currently
+                  exploring Tech , Till now i know Java, Html & a few of Python.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/Yashrajstwt" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="twitter" />
+                  </a>
+                  <a href="https://github.com/yash-raj10" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" />
+                  </a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft - Ujjwal-Gupta -->
+              <div class="cards animate__animated animate__fadeInRight Ujjwal-Gupta">
+                <h1 id="Ujjwal-Gupta">Ujjwal was here</h1>
+                <p class="Ujjwal-Gupta-Para">
+                  Hello everyone this is Ujjwal, I am a student who is learning web
+                  development these days, I also know a bit about bash script and I love
+                  photography, apart from that I like reading and learning new things.
+                </p>
+                <a href="https://twitter.com/_ujjwal_gupta_" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+              </div>
+
+              <!-- Jyotika -->
+              <div class="cards animate__animated animate__fadeInLeft Jyotika">
+                <h1 id="Jyotika">Jyotika was here</h1>
+                <p class="Jyotika-Para">
+                  Hello everyone, this is Jyotika. I'm a first year student exploring different tech fields.
+                  I am currently learning web development and I enjoy contributing to open source. Best wishes everyone
+                  and happy hacking.
+                </p>
+
+                <a href="https://github.com/jyotika6221" target="_blank"> <img class="github"
+                    src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+              </div>
+
+
+
+              <!-- prashant raj -->
+              <div class="cards animate__animated animate__fadeInRight Prashant">
+                <h1 id="Prashant">Prashant was here</h1>
+                <p class="Prashant-Para">
+                  Hello everyone , I have just completed Diploma in CSE.I am following the path of FullStack web
+                  developer. <br> I love to code .
+                </p>
+
+                <div class="socials">
+                  <a href="http://twitter.com/rajmaurya_dev" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="twitter" />
+                  </a>
+                  <a href="https://github.com/gitrajmaurya" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" />
+                    <a href="https://www.linkedin.com/in/prashant-raj-maurya"><img class="linkedin"
+                        src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="" />
+                    </a>
+                </div>
+              </div>
+
+
+              <!-- Rishabh Dhawad Start -->
+              <div class="cards animate__animated animate__fadeInLeft Rishabh">
+                <h1 id="rishabh">Rishabh Dhawad was here</h1>
+                <p class="Rishabh">
+                  Hlo everyone 👋, this is Rishabh Dhawad. I am currently a 3rd Year student! , I know Java ,Python ,C
+                  ,Cpp ,Javascript, R. I am also a Open Source Enthusiast.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/RishabhDhawad" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="twitter" />
+                  </a>
+                  <a href="https://github.com/RishabhDhawad" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" />
+                  </a>
+                </div>
+              </div>
+              <!--cards animate__animated animate__fadeInLeft  Rishabh Dhawad End -->
+
+              <!-- Surarapu Vagdevi -->
+
+              <div class="cards animate__animated animate__fadeInRight Surarapu Vagdevi">
+                <h1 id="Surarapu Vagdevi">Hello..👋 Vagdevi was here</h1>
+                <p class="Vagdevi">
+                  This is Vagdevi,I am starting open-source and feeling very excited to contribute.
+                </p>
+                <div class="socials">
+                  <a href="https://www.linkedin.com/in/vagdevi-s-211311229" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="Linkedin">
+                  </a>
+                  <a href="https://github.com/Vagdevi007" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub">
+                  </a>
+                </div>
+              </div>
+              <!--cards animate__animated animate__fadeInLeft  Surarapu Vagdevi End -->
+
+              <!-- Saran Sinha -->
+              <div class="cards animate__animated animate__fadeInLeft saran">
+                <h1 id="saran-here">Hello.....Saran here !</h1>
+                <p class="Ayush-paragraph">
+                  Hello everyone, I am Saran Sinha, a student. Currently I am learning web dev and DSA. Hoping for
+                  networking with you all. Good Luck Everyone!!
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/tweetsarann" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="">
+                  </a>
+                  <a href="https://github.com/saran1522" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="">
+                  </a>
+                  <a href="https://www.linkedin.com/in/saran-sinha-4456671ba/" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="">
+                  </a>
+                </div>
+              </div>
+
+              <!-- cards animate__animated animate__fadeInLeft Piyush Yadav -->
+              <div class="cards animate__animated animate__fadeInRight piyush">
+                <h1 id="piyush-here">Hello.....Piyush was here !</h1>
+                <p class="Piyush-paragraph">
+                  Hello everyone, I am Piyush Yadav, a student. Currently I am learning web dev and DSA. Hoping for
+                  networking with you all. Good Luck Everyone!!
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/Piyushy00994495" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="">
+                  </a>
+                  <a href="https://github.com/lanslord11" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="">
+                  </a>
+                  <a href="https://www.linkedin.com/in/piyush-yadav-078338204/" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="">
+                  </a>
+                </div>
+              </div>
+
+
+              <div class="cards animate__animated animate__fadeInLeft SujalSamai">
+                <h1 id="Sujal-Samai">Sujal Samai was here</h1>
+                <p>Hello Everyone!!👋</p>
+                <p class="Sujal-paragraph">
+                  I am Sujal Samai, a pre-final year computer science undergraduate. I am a Frontend Web Developer, and
+                  an Open Source Enthusiast. Currently I'm learning ReactJS and trying to network and learn from as many
+                  people as I can.
+                </p>
+                <div class="socials">
+                  <a href="https://www.linkedin.com/in/sujal-samai" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="Linkedin">
+                  </a>
+                  <a href="https://github.com/sujasamai" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub">
+                  </a>
+                  <a href="http://twitter.com/SujalSamai" target="_blank">
+                    <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="Twitter">
+                  </a>
+                </div>
+              </div>
+
+
+              <!-- Gilang-Kharisma -->
+              <div class="cards animate__animated animate__fadeInRight Gilang-Kharisma">
+                <h1 id="Gilang-Kharisma">Gilang was here</h1>
+                <p class="Gilang-Kharisma-Para">
+                  Assalamualaikum warahmatullahi wabaokratuh
+                  introduce me, I'm Gilang from Indonesia, I like Linux and I'm learning web programming
+                </p>
+                <a href="http://twitter.com/lalumuhammadgk1" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+              </div>
+
+              <!-- Akhilesh-Waghmare -->
+              <div class="cards animate__animated animate__fadeInLeft Akhilesh-Waghmare">
+                <h1 id="Akhilesh-Waghmare">Harsh was here</h1>
+                <p class="Akhilesh-Waghmare-Para">
+                  Hello everyone this is Akhilesh, I am a BCA student who is learning
+                  web development and DSA. I love reading books and watching movies. Exploring the world of open-source
+                  now.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/the_akhilesh_w" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://twitter.com/the_akhilesh_w" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+              <!--cards animate__animated animate__fadeInLeft  Alit Indrawan -->
+              <div class="cards animate__animated animate__fadeInRight alit">
+                <h1 id="alit-here">Alit was here !</h1>
+                <p class="Ayush-paragraph">
+                  Hello everyone, I am Alit Indrawan, Currently I am working as Software Engineer and a Laravel
+                  Enthusiast. Good Luck Everyone!!
+                </p>
+                <div class="socials">
+                  <a href="https://github.com/Alitindrawan24" target="_blank">
+                    <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="">
+                  </a>
+                  <a href="https://www.linkedin.com/in/alitindrawan24/" target="_blank">
+                    <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="">
+                  </a>
+                </div>
+              </div>
+
+              <!-- cards animate__animated animate__fadeInLeft Robin Singh  -->
+              <div class="cards animate__animated animate__fadeInLeft Robin-Singh">
+                <h1 id="Robin-Singh">Robin was here</h1>
+                <p class="Robin-Singh-Para">
+                  Hi, my name is Robin. I am a 2nd year student pursuing Bachelor's degree in IT. I am new to open
+                  source.
+                  I am currently working on my frontend skills. I love to meet and interact with people.
+                </p>
+                <div class="socials">
+                  <a href="https://twitter.com/robxnsingh" target="_blank"><img class="twt"
+                      src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                  <a href="https://github.com/robxnsingh" target="_blank"><img class="github"
+                      src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                </div>
+              </div>
+
+
+              <!--cards animate__animated animate__fadeInLeft  Atharva Mogade -->
+              <div class="cards animate__animated animate__fadeInRight atharvamogade-conainter">
+                <h1 id="atharvamogade-h1">Atharva Mogade</h1>
+                <p class="atharvamogade-p">
+                  Hello everyone this is Atharva Mogade, a Fronend Web Developer. I am also interested in learning UIUX
+                  Designing and my hobbies Playing guitar, photography and gaming.
+                </p>
+                <a href="http://twitter.com/atharvamogade" target="_blank"><img class="twt"
+                    src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+              </div>
+
+
+              <!cards animate__animated animate__fadeInLeft -- Antony Prince -->
+                <div class="cards animate__animated animate__fadeInLeft AntonyPrince">
+                  <h1 id="Antony-Prince">Antony Prince was here</h1>
+                  <p class="Antony-paragraph">
+                    I am Antony Prince, a blockchain enthusiast and data engineer starting my journey in the world of
+                    open source.
+                  </p>
+                  <div class="socials">
+                    <a href="https://www.linkedin.com/in/antoprince001" target="_blank">
+                      <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="Linkedin">
+                    </a>
+                    <a href="https://github.com/antoprince001" target="_blank">
+                      <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub">
+                    </a>
+                  </div>
+                </div>
+
+
+                <!-- Jiganesh Patil -->
+                <div class="cards animate__animated animate__fadeInRight Jiganesh-Patil">
+                  <h1 id="Jiganesh-Patil">Jiganesh Patil was here !</h1>
+                  <p class="Jiganesh-Patil-Para">
+                    Hello Everyone, This is Jiganesh Patil. I am a Mechanical Graduate and currently working as a
+                    Developer.</br>
+                    I love working with topics related to DataStructure and Algorithms. Let's Connect and Code !!
+                  </p>
+                  <div class="socials">
+                    <a href="https://twitter.com/PatilJiganesh" target="_blank"><img class="twt"
+                        src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                    <a href="https://github.com/Jiganesh" target="_blank"><img class="github"
+                        src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                    <a href="https://www.linkedin.com/in/jiganesh/" target="_blank"><img class="linkd"
+                        src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                  </div>
+                </div>
+
+
+                <!cards animate__animated animate__fadeInLeft -- Priyank Patil -->
+                  <div class="cards animate__animated animate__fadeInLeft Priyank-Patil">
+                    <h1 id="Priyank-Patil">Priyank Patil was here !</h1>
+                    <p class="Priyank-Patil-Para">
+                      Hi, Myself Priyank Patil I am huge opensource enthusiast.Interested in everything related to web
+                    </p>
+                    <div class="socials">
+                      <a href="https://twitter.com/de_priyank" target="_blank"><img class="twt"
+                          src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                      <a href="https://github.com/priyank003" target="_blank"><img class="github"
+                          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                      <a href="https://www.linkedin.com/in/priyank-p-83b000122/" target="_blank"><img class="linkd"
+                          src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                    </div>
+                  </div>
+
+                  <!-- cards animate__animated animate__fadeInLeft Agrim Sharma -->
+                  <div class="cards animate__animated animate__fadeInRight Agrim-Sharma">
+                    <h1 id="Agrim-Sharma">Agrim Was Here</h1>
+                    <p class="Agrim-Sharma-Para">A developer from heart, who is trying to make a difference in the world
+                      of programming. </p>
+                    <a href="https://github.com/agrim-sharma174" target="_blank"><img class="github"
+                        src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+                  </div>
+
+                  <!-- cards animate__animated animate__fadeInLeft Amandeep Singh Start -->
+                  <div class="cards animate__animated animate__fadeInLeft Amandeeps">
+                    <h1 id="Amandeep">Amandeep Was Here!</h1>
+                    <p class="Amandeep-Para">A passionate CS student who loves to develop be it Android Applications or
+                      Websites</p>
+                    <a href="https://github.com/Amandeep404" target="_blank"><img class="github"
+                        src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+                  </div>
+
+                  <!-- cards animate__animated animate__fadeInLeft Amrutanshu Jena -->
+                  <div class="cards animate__animated animate__fadeInRight Amrutanhu-jena">
+                    <h1 id="Amrutanhu-jena">Amrutanshu Is Here</h1>
+                    <p class="Amrutanhu-jena-about"> A programmer | open-source enthusiast | Software Engineer </p>
+                    <section class="about">
+                      <button class="btn">
+                        <a href="https://github.com/ajamru" target="_blank"><img class="github"
+                            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt=""></a>
+                      </button>
+                      <button class="btn">
+                        <a href="https://twitter.com/AmrutanshuJena" target="_blank"><img class="twt"
+                            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                      </button>
+                    </section>
+                  </div>
+
+                  <!--cards animate__animated animate__fadeInLeft  Divya Aggarwal  -->
+                  <div class="cards animate__animated animate__fadeInRight Divya-Aggarwal">
+                    <h1 id="Divya-Aggarwal">Divya was here</h1>
+                    <p class="Divya-Aggarwal-Para">
+                      Hi, my name is Divya and I am a college student.
+                      I am intrested in coding and designing.
+                    </p>
+                    <a href="https://github.com/divya520357" target="_blank"><img class="github" id="mke-github"
+                        src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+                        alt="GitHub logo shows a white cat silhouette on black background" /></a>
+                  </div>
+
+
+                  <!--cards animate__animated animate__fadeInLeft  Harshita Gupta -->
+                  <div class="cards animate__animated animate__fadeInLeft HarshitaGupta">
+                    <h1 id="HarshitaGupta">Harshita Gupta was here</h1>
+                    <p class="harshita2432">
+                      Hey, I am in third year studying Computer Science at BVCOE, New Delhi, India.
+                      I am learning web development and DSA.
+                    </p>
+                    <div class="socials">
+                      <a href="https://www.linkedin.com/in/harshita-gupta-335525208/" target="_blank"><img class="linkd"
+                          src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                      <a href="https://github.com/Harshitagupta324" target="_blank"><img class="github"
+                          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                    </div>
+                  </div>
+
+
+
+                  <!--cards animate__animated animate__fadeInLeft - Pooja Sharma-->
+                  <div class="cards animate__animated animate__fadeInRight Pooja-Sharma">
+                    <h1 id="Pooja-Sharma">Pooja was here</h1>
+                    <p class="Pooja-Sharma-Para">
+                      Hello everyone, I am Pooja Sharma. I am a student and I am learning web development.
+                    </p>
+
+                    <div class="socials">
+                      <a href="https://twitter.com/Poojasharma097" target="_blank"><img class="twt"
+                          src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                      <a href="https://github.com/poojasharma097" target="_blank"><img class="github"
+                          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                      <a href="https://www.linkedin.com/in/pooja-sharma-a80458222/" target="_blank"><img class="linkd"
+                          src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                    </div>
+                  </div>
+
+                  <!-- cards animate__animated animate__fadeInLeft Prajwal Somalkar -->
+                  <div class="cards animate__animated animate__fadeInRight Prajwal">
+                    <h1 id="Prajwal">Prajwal Somalkar was here !</h1>
+                    <p class="Prajwal">
+                      Hello Everyone, This is Prajwal Somalkar. I am a IT Under Graduate student.</br>
+                      I love working with React ⚛️.
+                    </p>
+                    <div class="socials">
+                      <a href="https://twitter.com/Prajwal__02" target="_blank"><img class="twt"
+                          src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                      <a href="https://github.com/Prajwal0225" target="_blank"><img class="github"
+                          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                      <a href="https://www.linkedin.com/in/prajwal-somalkar-7a72b1202/" target="_blank"><img
+                          class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                    </div>
+                  </div>
+
+
+                  <!--cards animate__animated animate__fadeInLeft  Saloni Dwivedi Start -->
+                  <div class="cards animate__animated animate__fadeInLeft Saloni">
+                    <h1 id="saloni">Saloni Dwivedi was also here!</h1>
+                    <p class="Saloni">
+                      Hi 👋, I'm Saloni Dwivedi. I am currently a 3rd Year student! , I know Python ,C ,Cpp and
+                      Javascript. I love UI/UX designing and also write some cute pieces.
+                    </p>
+                    <div class="socials">
+                      <a href="https://twitter.com/Layzmaxx" target="_blank">
+                        <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="twitter" />
+                      </a>
+                      <a href="https://github.com/Saloni098" target="_blank"><img class="github"
+                          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" />
+                      </a>
+                    </div>
+                  </div>
+                  <!--cards animate__animated animate__fadeInLeft  Saloni Dwivedi End -->
+
+                  <!-- Kavan Gondalia -->
+                  <div class="cards animate__animated animate__fadeInRight kavandiv">
+                    <h1 id="kavanName">Kavan Gondalia was here</h1>
+                    <p class="kavanp">
+                      Ohayo Minasan, I am a passionate developer and always ready to learn new things.
+                      Ping me anytime if you need help.
+                    </p>
+                    <div class="socials">
+                      <a href="https://twitter.com/kavania2002" target="_blank"><img class="twt"
+                          src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                      <a href="https://github.com/kavania2002" target="_blank"><img class="github"
+                          src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                      <a href="https://www.linkedin.com/in/kavania2002" target="_blank"><img class="linkd"
+                          src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                    </div>
+                  </div>
+
+                  <!--Veeresh Tadkal Start-->
+                  <div class="cards animate__animated animate__fadeInLeft Veeresh">
+                    <h1 class="VeereshHeading">Veeresh was here &#9874;</h1>
+                    <p class="VeereshParagraph">Iam a tech enthusiast and currently exploring the world of Open Source
+                      &#9786;</p>
+                  </div>
+
+                  <!-cards animate__animated animate__fadeInLeft -Veeresh Tadkal End-->
+
+                    <!-- SachXD -->
+                    <div class="cards animate__animated animate__fadeInRight SachXD">
+                      <h1 id="SachXD">Ananth was here!</h1>
+                      <p class="SachXD">
+                        Hey all, My name is Ananth.Im currently a freshman at SCTCE doing my Bachelors in Electronics
+                        and Communication Engineering.Rust Programmer by the end of the day!
+                      </p>
+                      <div class="socials">
+                        <a href="https://twitter.com/aanxand" target="_blank"><img class="twt"
+                            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                        <a href="https://github.com/sachxd" target="_blank"><img class="github"
+                            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                        <a href="https://www.linkedin.com/in/ananth-prathap/" target="_blank"><img class="linkd"
+                            src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                      </div>
+                    </div>
+
+                    <!-- Talha Quddoos -->
+                    <div class="cards animate__animated animate__fadeInLeft Talcards animate__animated animate__fadeInLeft">
+                      <h1>Talha Quddoos was here</h1>
+                      <p>
+                        I am Talha Quddoos, a highschool student and a web developer. Learning Machine Learning and AI.
+                      </p>
+                      <div class="socials">
+                        <a href="https://www.twitter.com/TalhaQuddoosPK" target="_blank">
+                          <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+                            alt="Twitter">
+                        </a>
+                        <a href="https://github.com/TalhaQuddoos" target="_blank">
+                          <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png"
+                            alt="GitHub">
+                        </a>
+                      </div>
+                    </div>
+
+                    <!-- cards animate__animated animate__fadeInLeft Pranav Malik -->
+                    <div class="cards animate__animated animate__fadeInRight PranavMalik">
+                      <h1 id="PranavMalik">Pranav Malik was here 🚀</h1>
+                      <p class="pranavM">
+                        Hi 👋 I'm Pranav Malik. I am learning Web Dev and exploring the world of open source. If you are
+                        reading this, let's connect. 🌟
+                      </p>
+                      <div class="socials">
+                        <a href="https://twitter.com/pran9v" target="_blank"><img class="twt"
+                            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="" /></a>
+                        <a href="https://github.com/pran9v" target="_blank"><img class="github"
+                            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                        <a href="https://www.linkedin.com/in/pran9v" target="_blank"><img class="linkd"
+                            src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt=""></a>
+                      </div>
+                    </div>
+
+                    <!-- cards animate__animated animate__fadeInLeft Harsh Kukreja -->
+                    <div class="cards animate__animated animate__fadeInLeft MonicaKukreja">
+                      <h1 id="MonicaKukreja">Monica Kukreja was here</h1>
+                      <p class="monicap">
+                        Hey, I am in currently interested in web development.
+                      </p>
+                      <div class="socials">
+                        <a href="https://github.com/monicakukreja" target="_blank"><img class="github"
+                            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" /></a>
+                      </div>
+                    </div>
+
+                    <!--cards animate__animated animate__fadeInLeft - Amisha Pandey -->
+                    <div class="cards animate__animated animate__fadeInRight AmishaPandey">
+                      <h1 id="Amisha">Amisha Pandey was here!</h1>
+                      <p class="Amisha--about">
+                        Hello everyone! This is <span class="Amisha--highlight">Amisha</span>. I'm a Btech 3rd-year
+                        student. <br>
+                        I work as a Community Manegar at <span class="Amisha--highlight">Bluelearn</span> & a Web
+                        developer intern at <span class="Amisha--highlight">Systaldyn</span>.<br>
+                        I'm also working under <span class="Amisha--highlight">DRDO</span> for a AR/VR based
+                        project.<br>
+                        Public Speaking is my passion. I love interacting with new people and becoming freinds. <br>
+                        Feel free to DM me on my socials.
+                      </p>
+                      <div class="socials">
+                        <a href="https://twitter.com/amisha_pandeyy" target="_blank">
+                          <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png" alt="">
+                        </a>
+                        <a href="https://github.com/Amisha0606" target="_blank">
+                          <img class="github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="">
+                        </a>
+                        <a href="https://www.linkedin.com/in/amishapandey/" target="_blank">
+                          <img class="linkd" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" alt="">
+                        </a>
+                      </div>
+                    </div>
+
+                    <!--cards animate__animated animate__fadeInLeft ROhit singh Start -->
+                    <div class="cards animate__animated animate__fadeInLeft ROHIT">
+                      <h1 id="SINGH">Rohit singh was here</h1>
+                      <p class="ROHIT">
+                        Hlo everyone 👋, this is Rishabh Dhawad. I am currently a 3rd Year student! , I know Java
+                        ,Python ,C ,Cpp ,Javascript, R. I am also a Open Source Enthusiast.
+                      </p>
+                      <div class="socials">
+                        <a href="https://twitter.com/Rohits9804" target="_blank">
+                          <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+                            alt="twitter" />
+                        </a>
+                        <a href="https://github.com/Rohit9804" target="_blank"><img class="github"
+                            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="" />
+                        </a>
+                      </div>
+                    </div>
+
+                    <!--cards animate__animated animate__fadeInLeft  rohit singh End -->
+                    <div class="cards animate__animated animate__fadeInRight Satyam">
+                      <h1 id="SINGH">Satyam singh was here</h1>
+                      <p class="Satyam">
+                        Hello!, I am Satyam an upcoming CS major student at uofr, an open source contributor in many
+                        projects like amplication, eddiehub and openfunction, a technology explorer(love to learn new
+                        stacks and explore different domains) and a hackathon enthusiast(won 9 global hackathons so far)
+                      </p>
+                      <div class="socials">
+                        <a href="https://twitter.com/__Klaus_31452" target="_blank">
+                          <img class="twt" src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+                            alt="twitter" />
+                        </a>
+                        <a href="https://github.com/KlausMikhaelson" target="_blank"><img class="github"
+                            src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="github logo" />
+                        </a>
+                      </div>
+                    </div>
+
+                    <!--cards animate__animated animate__fadeInLeft - Pooja Sanwal start -->
+                    <div class="cards animate__animated animate__fadeInLeft pooja-sanwal">
+                      <h1 class="pooja-title">Pooja Sanwal was here!</h1>
+                      <p class="pooja-intro">
+                        Hey, there! Happy to see you here :) <br><br>
+
+                        I am a final year bachelor's student from India and I am learning to code by building one
+                        project at a time and contributing to open source projects like these. <br>
+                        If you want to connect and collaborate, please follow me on social media using the links below.
+                        Let's connect!
+                      </p>
+                      <div class="pooja-socials">
+                        <a href="https://github.com/poojasanwal" target="_blank"><img
+                            src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="GitHub"></a>
+                        <a href="https://twitter.com/poojaasanwal" target="_blank"><img
+                            src="https://cdn-icons-png.flaticon.com/512/2168/2168336.png" alt="Twitter"></a>
+                        </ul>
+                      </div>
+                    </div>
+
+                    <!--cards animate__animated animate__fadeInLeft - Pooja Sanwal end -->
+
+                    <!-- Sreejit -->
+                    <div class="cards animate__animated animate__fadeInRight sreejit">
+                      <h1 id="sreeh1">Hey👋! Sreejit was Here</h1>
+                      <p id="sreep">Hey everyone I am Sreejit Sengupto, an aspiring Frontend Developer, just jumped in
+                        the World of Tech. For now, I can proficiently code in HTML & CSS. On the go I am trying to
+                        learn other stuff as well, I am learning Tailwind CSS as of now. Looking forward to contribute
+                        to Open Source projects which match my skills. Trying to improve everyday! I created cards animate__animated animate__fadeInLeft for
+                        this site and fixed its navigation bar to top.</p>
+
+                      <p id="sreesocial">
+                        Catch me on Twitter <a href="https://twitter.com/SreeSen03" target="_blank"><img class="twt"
+                            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+                            alt="Follow Sreejit on Twitter" id="sreetwitter" /></a>
+                      </p>
+                    </div>
+
+                    <!-- Sreejit ends here -->
+
+                    <!-- Vaibhav Sutariya -->
+                    <div class="cards animate__animated animate__fadeInLeft sreejit">
+                      <h1 id="sreeh1">Hey👋! Vaibhav Sutariya was Here</h1>
+                      <p id="sreep">Hey everyone I am Vaibhav Sutariya, an aspiring Flutter Developer, just jumped in
+                        the World of Tech. For now, I can proficiently code in Flutter & Dart. On the go I am trying to
+                        learn other stuff as well, I am learning React Native as of now. Looking forward to contribute
+                        to Open Source projects which match my skills. Trying to improve everyday! I created cards and added animation to it.</p>
+
+                      <p id="sreesocial">
+                        Catch me on Twitter <a href="https://twitter.com/Vaibhav_s_968" target="_blank"><img class="twt"
+                            src="https://cdn-icons-png.flaticon.com/512/3128/3128212.png"
+                            alt="Follow Vaibhav on Twitter" id="vaibhavTwitter" /></a>
+                      </p>
+                    </div>
+
+                    <!-- Vaibhav Sutariya ends here -->
+
+                    <!-- Please add your description inside a div!
+
+    Ecards animate__animated animate__fadeInLeft xample:
+    <div class="cards animate__animated animate__fadeInLeft your_name">
+      Your content
+    </div> -->
+
+                    <footer class="animate__animated animate__fadeInUp">
+                      <h1>My-Name</h1>
+                      <p>
+                        Repository made for Hacktoberfest 2022<br />
+                        Made with HTML/CSS and ❤️ by programmers from around the world<br />
+                        <a href="https://github.com/vansh-goel/My-Name" target="blank" rel="noreferrer">Source</a>
+                      </p>
+                      </br></br>
+
+                      <!-- Akshay Kumar Maurya -->
+                      <div class="cards animate__animated animate__fadeInLeft akshay">
+                        <p class="akshay_p">This page was viewed</p>
+                        <h1 id="countValue" style="color: red;">0</h1>
+                        <p class="akshay_h2">times</p>
+                      </div>
+                    </footer>
+
+                    <!-- scroll to top btn -->
+                    <!-- <i id="scrolltp" class="fa fa-arrow-up"></i>   -->
+                    <section id="scroll">
+                      <a href="#top" class="scroll"><img src="./assets/images/scroll-to-top-icon.png"
+                          alt="scroll to top" class="scr-to-top"></a>
+                    </section>
+                    <script src="./js/app.js"></script>
+</body>
+
+</html>
